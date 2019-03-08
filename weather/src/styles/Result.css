@@ -1,0 +1,17 @@
+.result {
+    margin: 50px auto;
+    padding-top: 20px;
+    border-top: 2px solid #ddd;
+    display: flex;
+    flex-direction: column;
+}
+
+.result h3,
+.result h4 {
+    font-weight: normal;
+    margin: 20px auto;
+}
+
+.result em {
+    font-weight: bold;
+}
